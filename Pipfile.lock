@@ -310,11 +310,12 @@
         },
         "django-ipware": {
             "hashes": [
-                "sha256:602a58325a4808bd19197fef2676a0b2da2df40d0ecf21be414b2ff48c72ad05",
-                "sha256:878dbb06a87e25550798e9ef3204ed70a200dd8b15e47dcef848cf08244f04c9"
+                "sha256:838b7aede77734603bd32ebd08ad7957304266580b646f8cbe982c4833b71c84",
+                "sha256:ab3ab7645e674df682c1146a5bddfa5151b1b7be7be9210872c3156bd836aad4"
             ],
             "index": "pypi",
-            "version": "==4.0.2"
+            "markers": "python_version >= '3.8'",
+            "version": "==5.0.2"
         },
         "django-jet-reboot": {
             "hashes": [
